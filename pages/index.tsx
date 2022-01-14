@@ -25,3 +25,4 @@ const Home: NextPage = () => {
       </section>
   )
 }
+export default Home
